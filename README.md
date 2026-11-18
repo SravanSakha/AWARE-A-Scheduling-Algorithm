@@ -11,7 +11,7 @@ The simulator animates processes as they move from the incoming queue to the rea
 
 ## Live demo
 
-[Open the deployed simulator](https://os-project-omega-three.vercel.app/)
+[Click here for live demo](https://os-project-omega-three.vercel.app/)
 
 
 
